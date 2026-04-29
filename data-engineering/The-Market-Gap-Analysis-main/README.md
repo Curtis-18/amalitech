@@ -11,7 +11,7 @@ Analysis of 300,000 food products found that only 6% of snacks fall in the "High
 
 - **Link to Notebook:** [https://github.com/Curtis-18/amalitech/blob/master/data-engineering/The-Market-Gap-Analysis-main/market-gap-analysis.ipynb]
 - **Link to Dashboard:**[https://datastudio.google.com/s/pI8aXj1fd5E]
-- **Link to Presentation:** []
+- **Link to Presentation:** [https://www.overleaf.com/read/jmqkxmqyddwq#92b52d]
 
 ## Technical Explanation
 
@@ -35,9 +35,9 @@ Fat is penalised at half weight because not all fat is nutritionally harmful (e.
 it provides no nutritional benefit. This gives R&D a single defensible number to benchmark new formulations against existing categories, rather than juggling 
 four separate nutrient columns.
 
-Key finding: Protein Bars & Supplements is the only category with a positive score (+~38), confirming it as the nutritional benchmark. All other categories 
+Key finding: Protein Bars & Supplements is the only category with a positive score (\~38), confirming it as the nutritional benchmark. All other categories 
 score negative, meaning their average product does more nutritional harm than good by this measure. Notably, Fruit & Veggie Snacks scores the worst of all 
-(~-40) — this is not a data error. This category in the dataset is dominated by dried fruits (raisins, dates, mango strips) which carry ~50g of sugar per 
+(\~-40) , this is not a data error. This category in the dataset is dominated by dried fruits (raisins, dates, mango strips) which carry ~50g of sugar per 
 100g, driving the score down. It does not reflect the nutritional value of fresh fruit.
 
 This addition matters to the business because it gives the client's R&D team a product specification target: beat a score of +10 and you have a demonstrably 
