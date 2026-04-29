@@ -9,7 +9,7 @@ Analysis of 300,000 food products found that only 6% of snacks fall in the "High
 
 ## B. Project Links
 
-- **Link to Notebook:** []
+- **Link to Notebook:** [https://github.com/Curtis-18/amalitech/blob/master/data-engineering/The-Market-Gap-Analysis-main/market-gap-analysis.ipynb]
 - **Link to Dashboard:**[https://datastudio.google.com/s/pI8aXj1fd5E]
 - **Link to Presentation:** []
 
@@ -181,17 +181,17 @@ Please edit this `README.md` file in your forked repository to include the follo
 
 ### 1. Repository & Code Checks
 
-- [yes] **My GitHub Repo is Public.** (Open the link in a Private/Incognito window to verify).
-- [ ] **I have uploaded the `.ipynb` notebook file.**
-- [ ] **I have ALSO uploaded an HTML or PDF export** of the notebook.
-- [ ] **I have NOT uploaded the massive raw dataset.** (Use `.gitignore` or just don't commit the CSV).
-- [yes] **My code uses Relative Paths.**
+- [x] **My GitHub Repo is Public.** (Open the link in a Private/Incognito window to verify).
+- [x] **I have uploaded the `.ipynb` notebook file.**
+- [x] **I have ALSO uploaded an HTML or PDF export** of the notebook.
+- [x] **I have NOT uploaded the massive raw dataset.** (Use `.gitignore` or just don't commit the CSV).
+- [x] **My code uses Relative Paths.**
 
 ### 2. Deliverable Checks
 
-- [yes] **My Dashboard link is publicly accessible.** (No login required).
+- [x] **My Dashboard link is publicly accessible.** (No login required).
 - [ ] **My Presentation link is publicly accessible.** (Permissions set to "Anyone with the link can view").
-- [yes] **I have updated this `README.md` file** with my Executive Summary and technical notes.
+- [x] **I have updated this `README.md` file** with my Executive Summary and technical notes.
 
 ### 3. Completeness
 
